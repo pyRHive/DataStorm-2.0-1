@@ -15,7 +15,7 @@ Naive Bayes Algorithm, Adaboost and KNN classification was fitted to the dataset
 
 Day 3 
 
-A new feature was created which calculates the total charge for the stay.
+A new feature (Feature 3) was created which calculates the total charge for the stay.
 The variables that were used to calculate the total charge was removed when fitting models. 
 SMOTE resampling technique was applied to handle the imbalance in the dataset.
 The numerical variables were standardised. 
